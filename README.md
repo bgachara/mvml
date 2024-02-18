@@ -45,7 +45,7 @@
 ### Matching Algorithms
 
 - FIFO - First In First Out.
-- PRO-RATA - Price volume/quantity priority gets in first.
+- PRO-RATA - Price volume/quantity priority gets in first over time..
 - TOP - Best price at a given quantity, best price at 200/=
 - LMM - Lead market maker, program amongst firms, i.e 10% trades.
 
